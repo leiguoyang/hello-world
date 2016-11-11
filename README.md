@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 
 Use this repo to practice the Github workflow, including the follows:
 
